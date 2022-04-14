@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:projeto_perguntas/questao.dart';
 
 class Resultado extends StatelessWidget {
   final int pontuacao;
